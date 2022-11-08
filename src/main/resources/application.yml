@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    addresses: amqps://kofqwbyp:iStu8XkKaJDjLYO_fWhPJW1soIDCUlRK@stingray.rmq.cloudamqp.com/kofqwbyp
+queue:
+  fiap: fiap.1scjr.mensagens
